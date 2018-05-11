@@ -1,1 +1,1 @@
-This is just for practicing git. 
+This is just a readme file to get things start. 
